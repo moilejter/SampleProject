@@ -4,4 +4,7 @@
   <artifactId>sampleProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Sample Project</name>
+  <build>
+  	<sourceDirectory>src/main/java</sourceDirectory>
+  </build>
 </project>
